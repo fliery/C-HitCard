@@ -1,0 +1,40 @@
+C:\Users\Fliery GY\Desktop\c#\HitCard\HitCard\bin\Debug\HitCard.exe.config
+C:\Users\Fliery GY\Desktop\c#\HitCard\HitCard\bin\Debug\HitCard.exe
+C:\Users\Fliery GY\Desktop\c#\HitCard\HitCard\bin\Debug\HitCard.pdb
+C:\Users\Fliery GY\Desktop\c#\HitCard\HitCard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fliery GY\Desktop\c#\HitCard\HitCard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fliery GY\Desktop\c#\HitCard\HitCard\obj\Debug\HitCard.csprojAssemblyReference.cache
+C:\Users\Fliery GY\Desktop\c#\HitCard\HitCard\obj\Debug\HitCard.Form1.resources
+C:\Users\Fliery GY\Desktop\c#\HitCard\HitCard\obj\Debug\HitCard.Properties.Resources.resources
+C:\Users\Fliery GY\Desktop\c#\HitCard\HitCard\obj\Debug\HitCard.csproj.GenerateResource.cache
+C:\Users\Fliery GY\Desktop\c#\HitCard\HitCard\obj\Debug\HitCard.csproj.CoreCompileInputs.cache
+C:\Users\Fliery GY\Desktop\c#\HitCard\HitCard\obj\Debug\HitCard.csproj.CopyComplete
+C:\Users\Fliery GY\Desktop\c#\HitCard\HitCard\obj\Debug\HitCard.exe
+C:\Users\Fliery GY\Desktop\c#\HitCard\HitCard\obj\Debug\HitCard.pdb
+D:\HitCard\HitCard\HitCard\bin\Debug\HitCard.exe.config
+D:\HitCard\HitCard\HitCard\bin\Debug\HitCard.exe
+D:\HitCard\HitCard\HitCard\bin\Debug\HitCard.pdb
+D:\HitCard\HitCard\HitCard\bin\Debug\IrisSkin4.dll
+D:\HitCard\HitCard\HitCard\bin\Debug\Newtonsoft.Json.dll
+D:\HitCard\HitCard\HitCard\bin\Debug\Newtonsoft.Json.xml
+D:\HitCard\HitCard\HitCard\obj\Debug\HitCard.csprojAssemblyReference.cache
+D:\HitCard\HitCard\HitCard\obj\Debug\HitCard.Form1.resources
+D:\HitCard\HitCard\HitCard\obj\Debug\HitCard.Properties.Resources.resources
+D:\HitCard\HitCard\HitCard\obj\Debug\HitCard.csproj.GenerateResource.cache
+D:\HitCard\HitCard\HitCard\obj\Debug\HitCard.csproj.CoreCompileInputs.cache
+D:\HitCard\HitCard\HitCard\obj\Debug\HitCard.csproj.CopyComplete
+D:\HitCard\HitCard\HitCard\obj\Debug\HitCard.exe
+D:\HitCard\HitCard\HitCard\obj\Debug\HitCard.pdb
+C:\Users\Fliery GY\Desktop\HitCard\HitCard\obj\Debug\HitCard.csprojAssemblyReference.cache
+C:\Users\Fliery GY\Desktop\HitCard\HitCard\obj\Debug\HitCard.Form1.resources
+C:\Users\Fliery GY\Desktop\HitCard\HitCard\obj\Debug\HitCard.Properties.Resources.resources
+C:\Users\Fliery GY\Desktop\HitCard\HitCard\obj\Debug\HitCard.csproj.GenerateResource.cache
+C:\Users\Fliery GY\Desktop\HitCard\HitCard\obj\Debug\HitCard.csproj.CoreCompileInputs.cache
+C:\Users\Fliery GY\Desktop\HitCard\HitCard\obj\Debug\HitCard.exe
+C:\Users\Fliery GY\Desktop\HitCard\HitCard\obj\Debug\HitCard.pdb
+C:\Users\Fliery GY\Desktop\HitCard\HitCard\bin\Debug\HitCard.exe.config
+C:\Users\Fliery GY\Desktop\HitCard\HitCard\bin\Debug\HitCard.exe
+C:\Users\Fliery GY\Desktop\HitCard\HitCard\bin\Debug\HitCard.pdb
+C:\Users\Fliery GY\Desktop\HitCard\HitCard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fliery GY\Desktop\HitCard\HitCard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fliery GY\Desktop\HitCard\HitCard\obj\Debug\HitCard.csproj.CopyComplete
